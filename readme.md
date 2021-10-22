@@ -15,6 +15,6 @@ words may not be exhibited. Signature verification is a method to prevent unauth
 
 ## Image Preprocess
 ref at
-[click here](master/preprocessing) 
+[click here](https://github.com/Lazer2077/Signature-Vertification-Project/master/preprocessing) 
 ## Core code
 
